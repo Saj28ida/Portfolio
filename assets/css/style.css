@@ -6,11 +6,11 @@
     1.COMMON
 	  2.HEADER
     3.ABOUT
-    4.SERVICES
-    4.CALL TO ACTION
-    5.WORK
+    4.SKILLS
+    4.RESUME
+    5.PROJECTS
     6.PRICING
-    7.BLOG
+    7.EDUCATION
     8.CONTACT
     9.FOOTER
     10.PAGE BANNER
@@ -860,7 +860,7 @@ p {
       width: 0; }
 
 /*===========================
-        4.SERVICES css 
+        4.SKILLS css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
@@ -908,7 +908,7 @@ p {
     box-shadow: 0px 0px 21px 0px rgba(152, 152, 152, 0.23); }
 
 /*===========================
-    4.CALL TO ACTION css 
+    4.RESUME css 
 ===========================*/
 .call-to-action {
   position: relative;
@@ -969,7 +969,7 @@ p {
         border-color: #fff; }
 
 /*===========================
-        5.WORK css 
+        5.PROJECTS css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .work-area {
@@ -1155,7 +1155,7 @@ p {
       color: #754ef9; }
 
 /*===========================
-       7.BLOG css 
+       7.EDUCATION css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .blog-area {
